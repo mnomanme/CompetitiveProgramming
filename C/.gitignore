@@ -1,3 +1,4 @@
 bin/
 obj/
-C.cbp/
+C.cbp
+C.depend
